@@ -1,52 +1,39 @@
-# Airspace Jekyll
+# Go Nearshore
 
-Airspace Jekyll Creative Agency Template ported from [Airspace HTML Template](https://themefisher.com/products/airspace/)
+Empower your business with Nearshore IT excellence. Our team of skilled professionals brings seamless collaboration, top-tier talent, and cost-effective solutions to drive your growth. Explore custom software development, web & mobile apps, IT consulting, cloud services, SaaS, and technical support.
 
-![airspace](https://demo.themefisher.com/thumbnails/airspace.png)
+## Key Features
 
-## Setup
+- **Seamless Collaboration:** Real-time interaction for efficient communication across time zones.
+- **Top-tier Talent:** Skilled IT professionals delivering forward-driving solutions.
+- **Cost-Effective:** Access exceptional talent without overhead costs for unmatched value.
+- **Agile Solutions:** Adapt quickly to keep ahead in the tech landscape.
+- **Quality-Centric:** Rigorous testing guarantees high-quality solutions.
+- **Customer-Centric:** Tailored solutions aligned with your vision.
 
-To start your project, fork this repository
-After forking the repo, your site will be live immediately on your personal Github Pages account, e.g. `https://yourusername.github.io/your-repo-name/`.
+## Services Offered
 
-Make sure GitHub Pages is enabled for your repo. It might take some time for the site to propagate entirely.
+- Custom Software Development
+- Web and Mobile Applications
+- IT Consulting
+- Cloud Services
+- SaaS Solutions
+- Technical Support
 
-## Customize
+## Getting Started
 
-Things you can customize in `_data/settings.yml` (no HTML/CSS):
+1. Clone the repository: `git clone https://github.com/yourusername/gonearshore.git`
+2. Install dependencies: `npm install`
+3. Start the project: `npm start`
 
-- Theme General Settings ( name, logo, email, phone, address )
-- Hero Section
-- About Section
-- Team Section
-- Skills Section
-- Experience Section
-- Education Section
-- Services Section
-- Portfolio Section
-- Testimonials Section
-- Client Slider Section
-- Contact Section
+## Contributing
 
-## Deployment
+Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll's website.
+## Contact Us
 
-## Reporting Issues
+Elevate your business with Go Nearshore. Let's start your digital transformation journey today. Contact us at contact@gonearshore.com for inquiries.
 
-We use GitHub Issues as the official bug tracker for **Airspace**. Please Search [existing issues](https://github.com/themefisher/airspace-jekyll/issues). It’s possible someone has already reported the same problem.
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/airspace-jekyll/issues/new)
-
-## Technical Support or Questions
-
-If you have questions or need help integrating the product please [contact us](mailto:themefisher@gmail.com) instead of opening an issue.
-
-<!-- licence -->
 ## License
 
-Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
-
-**Code License:** Released under the [MIT](https://github.com/themefisher/airspace-jekyll/blob/main/LICENSE) license.
-
-**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
+This project is licensed under the [MIT License](LICENSE).

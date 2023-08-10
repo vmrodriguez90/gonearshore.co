@@ -1,0 +1,16 @@
+{
+  "title": "Fueling Success Together",
+  "text": "Go Nearshore's Expertise Drives Your Metrics Upward. Partner with us for nearshore IT solutions that boost efficiency, innovation, and growth. Let's chart a course towards achieving your goals and surpassing expectations.",
+  "section": [
+    {
+      "title": "Custom Solutions",
+      "content": "Tailored Tech Solutions: Our experts craft custom software that fits your exact needs. From seamless web and mobile apps to intricate system integrations, we engineer the perfect solutions to optimize your operations.",
+      "icon": "gear.svg"
+    },
+    {
+      "title": "Scalable Performance",
+      "content": "Experience scalability like never before. With our nearshore IT services, your metrics soar. We elevate performance, drive efficiency, and propel your business growth, ensuring you stay ahead of the competition.",
+      "icon": "chart.svg"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /private/
+Disallow: /admin/
+Disallow: /restricted-page
+Disallow: /login
+Disallow: /signup
+Disallow: /reset-password
+Disallow: /checkout
+Disallow: /thank-you
+Disallow: /error
+Disallow: /404
+Disallow: /500
+
+# Allow search engines to index the main app entry point
+Allow: /$
